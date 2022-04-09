@@ -1,0 +1,10 @@
+my:
+  app:
+    format: ABC
+    model: new-one
+    pcode: Pandit
+    pid: 10
+    version: 2.3
+  mail:
+    host: GMAIL.SMTP
+    model: TEST-EMAIL

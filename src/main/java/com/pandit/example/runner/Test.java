@@ -17,7 +17,7 @@ public class Test {
 		System.out.println(config);
 		System.out.println("Hiii Nikita Rathod");
 		
-		System.out.println("Pandit");
+		System.out.println("usosoisosjoisosjossio");
 	}
 
 }

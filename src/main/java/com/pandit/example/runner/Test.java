@@ -15,7 +15,7 @@ public class Test {
 	public void run(String... args) throws Exception{
 		System.out.println(pob);
 		System.out.println(config);
-		System.out.println("Hiii");
+		System.out.println("Hiii Nikita");
 	}
 
 }

@@ -10,7 +10,7 @@ public class MyProfileData {
 		return pid;
 	}
 	public void setPid(Integer pid) {
-		this.pid = sid;
+		this.pid = pandit;
 	}
 	public String getPcode() {
 		return pcode;

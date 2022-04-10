@@ -17,7 +17,7 @@ public class Test {
 		System.out.println(config);
 		System.out.println("Hiii Nikita Rathod");
 		
-		System.out.println("Hill Pandit");
+		System.out.println("Pandit");
 	}
 
 }
